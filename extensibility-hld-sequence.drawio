@@ -390,7 +390,7 @@
           <mxGeometry x="45" y="90" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-127" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="3lxVymx66JOfYg7nJAj3-92" vertex="1">
-          <mxGeometry x="45" y="169" width="10" height="131" as="geometry" />
+          <mxGeometry x="45" y="169" width="10" height="301" as="geometry" />
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-129" value="3: Open Accessories Tab/Page" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="3lxVymx66JOfYg7nJAj3-92" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -398,10 +398,11 @@
             <mxPoint x="45" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lxVymx66JOfYg7nJAj3-98" value="1: Open Checkout" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" source="3lxVymx66JOfYg7nJAj3-91" target="3lxVymx66JOfYg7nJAj3-93" edge="1">
+        <mxCell id="3lxVymx66JOfYg7nJAj3-98" value="1: Open Checkout" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1175" y="-350" as="sourcePoint" />
+            <mxPoint x="-1275" y="-328" as="sourcePoint" />
             <mxPoint as="offset" />
+            <mxPoint x="-1105" y="-328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-99" value="Tekion BE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -411,35 +412,39 @@
           <mxGeometry x="45" y="110" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-130" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="3lxVymx66JOfYg7nJAj3-99" vertex="1">
-          <mxGeometry x="45" y="179" width="10" height="20" as="geometry" />
+          <mxGeometry x="45" y="211" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3lxVymx66JOfYg7nJAj3-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.127;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="3lxVymx66JOfYg7nJAj3-99" target="3lxVymx66JOfYg7nJAj3-130" edge="1">
+        <mxCell id="3lxVymx66JOfYg7nJAj3-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.127;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="3lxVymx66JOfYg7nJAj3-99" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-165" y="180" as="sourcePoint" />
+            <mxPoint x="-165" y="220" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="44" y="180" />
+              <mxPoint x="44" y="220" />
             </Array>
+            <mxPoint x="43.73000000000002" y="220.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lxVymx66JOfYg7nJAj3-132" value="2: Get JWE Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3lxVymx66JOfYg7nJAj3-131" vertex="1" connectable="0">
+        <mxCell id="3lxVymx66JOfYg7nJAj3-132" value="5: Get JWE Token" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3lxVymx66JOfYg7nJAj3-131" vertex="1" connectable="0">
           <mxGeometry x="0.049" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="3lxVymx66JOfYg7nJAj3-99" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-164" y="234" as="sourcePoint" />
+            <mxPoint x="-164" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="320" y="234" />
-              <mxPoint x="320" y="234" />
+              <mxPoint x="320" y="270" />
+              <mxPoint x="320" y="270" />
             </Array>
-            <mxPoint x="485" y="234" as="targetPoint" />
+            <mxPoint x="485" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lxVymx66JOfYg7nJAj3-134" value="Get IFrame" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3lxVymx66JOfYg7nJAj3-133" vertex="1" connectable="0">
+        <mxCell id="3lxVymx66JOfYg7nJAj3-134" value="Render: IFrame" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3lxVymx66JOfYg7nJAj3-133" vertex="1" connectable="0">
           <mxGeometry x="0.049" relative="1" as="geometry">
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz_8QxTNZ0aKV-0dq6at-92" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="3lxVymx66JOfYg7nJAj3-99">
+          <mxGeometry x="45" y="162" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-114" value="Tekion APC" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-710" y="-430" width="100" height="520" as="geometry" />
@@ -447,11 +452,28 @@
         <mxCell id="3lxVymx66JOfYg7nJAj3-115" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="3lxVymx66JOfYg7nJAj3-114" vertex="1">
           <mxGeometry x="45" y="370" width="10" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Vz_8QxTNZ0aKV-0dq6at-89" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3lxVymx66JOfYg7nJAj3-114">
+          <mxGeometry x="45" y="221" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz_8QxTNZ0aKV-0dq6at-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.127;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="3lxVymx66JOfYg7nJAj3-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="228.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="44" y="228.5" />
+            </Array>
+            <mxPoint x="44" y="228.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz_8QxTNZ0aKV-0dq6at-91" value="6: Get JWE Token for required Payload" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vz_8QxTNZ0aKV-0dq6at-90">
+          <mxGeometry x="0.049" relative="1" as="geometry">
+            <mxPoint x="-3" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-116" value="SI IFrame UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="-490" y="-430" width="100" height="520" as="geometry" />
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-117" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#fad7ac;strokeColor=#b46504;" parent="3lxVymx66JOfYg7nJAj3-116" vertex="1">
-          <mxGeometry x="45" y="235" width="10" height="20" as="geometry" />
+          <mxGeometry x="45" y="267" width="10" height="83" as="geometry" />
         </mxCell>
         <mxCell id="3lxVymx66JOfYg7nJAj3-118" value="SI IFrame BE" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="-270" y="-430" width="100" height="520" as="geometry" />
@@ -472,8 +494,19 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lxVymx66JOfYg7nJAj3-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.086;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.065;exitY=0.774;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="3lxVymx66JOfYg7nJAj3-93" target="3lxVymx66JOfYg7nJAj3-91" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Vz_8QxTNZ0aKV-0dq6at-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.127;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1095" y="-258" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-886" y="-258" />
+            </Array>
+            <mxPoint x="-886" y="-258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz_8QxTNZ0aKV-0dq6at-94" value="4: Get Step UI Config (IFrame Spec)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Vz_8QxTNZ0aKV-0dq6at-93">
+          <mxGeometry x="0.049" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

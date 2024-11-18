@@ -8,7 +8,7 @@
           <mxGeometry x="430" y="1090" width="580" height="240" as="geometry" />
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="119" y="356" width="400" height="374" as="geometry" />
+          <mxGeometry x="119" y="356" width="511" height="394" as="geometry" />
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-404" y="346" width="410" height="426" as="geometry" />
@@ -109,7 +109,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-34" target="LcsfKCeP-2uFJm8OlEsS-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="431" />
+              <mxPoint x="555" y="430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-34" target="LcsfKCeP-2uFJm8OlEsS-49">
           <mxGeometry relative="1" as="geometry" />
@@ -126,10 +131,13 @@
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-36" target="LcsfKCeP-2uFJm8OlEsS-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="98" y="561" />
-              <mxPoint x="98" y="281" />
+              <mxPoint x="80" y="561" />
+              <mxPoint x="80" y="281" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LcsfKCeP-2uFJm8OlEsS-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-36" target="LcsfKCeP-2uFJm8OlEsS-106">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-36" value="Component and Template Configuration Option Mapping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="159" y="531" width="120" height="60" as="geometry" />
@@ -144,10 +152,20 @@
           <mxGeometry x="159" y="271" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-41" value="Defaults" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="359" y="401" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="480" width="90" height="220" as="geometry" />
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-43" target="LcsfKCeP-2uFJm8OlEsS-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LcsfKCeP-2uFJm8OlEsS-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-43" target="LcsfKCeP-2uFJm8OlEsS-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="645" />
+              <mxPoint x="1330" y="1390" />
+              <mxPoint x="330" y="1390" />
+              <mxPoint x="330" y="1210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-43" value="UI Template Configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1058" y="615" width="120" height="60" as="geometry" />
@@ -205,6 +223,14 @@
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-64" target="LcsfKCeP-2uFJm8OlEsS-68">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LcsfKCeP-2uFJm8OlEsS-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-64" target="LcsfKCeP-2uFJm8OlEsS-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="658" y="380" />
+              <mxPoint x="658" y="870" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-64" value="Program Configurations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="879" y="369" width="120" height="60" as="geometry" />
@@ -299,11 +325,14 @@
         <mxCell id="LcsfKCeP-2uFJm8OlEsS-100" value="SCX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcsfKCeP-2uFJm8OlEsS-106" value="STORE PAGE LEVEL CONFIG&#39;s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LcsfKCeP-2uFJm8OlEsS-106" value="Central Store ?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcsfKCeP-2uFJm8OlEsS-108" value="How to handle Multiple Consumers intigrity between each other ?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1380" width="700" height="30" as="geometry" />
+        <mxCell id="LcsfKCeP-2uFJm8OlEsS-109" value="Behaviour of AEC Studio&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Defaults&lt;br&gt;UI Template validation&lt;br&gt;&lt;br&gt;&lt;/span&gt;How to handle Multiple Consumers intigrity between each other ?&lt;br&gt;&lt;br&gt;&lt;br&gt;Top level config overrides ? (Client, Country and Brand)&lt;br&gt;&lt;br&gt;Source Configurations owners (BE or node)&lt;br&gt;&lt;br&gt;&lt;br&gt;External Configuration pipeline ? (Real time API vs Async config with some interval)&lt;br&gt;&lt;br&gt;&lt;br&gt;Node will be managing UI template CRUD&lt;br&gt;&lt;br&gt;Onboarding ?&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Publish as step to Global ?&lt;br&gt;on Save at Step or Global ?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="840" width="440" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="LcsfKCeP-2uFJm8OlEsS-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.024;entryY=0.861;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LcsfKCeP-2uFJm8OlEsS-84" target="LcsfKCeP-2uFJm8OlEsS-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

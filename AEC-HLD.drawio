@@ -351,18 +351,23 @@
           <mxGeometry x="-879" y="280" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6cSBWT4vYsl6B0eMvr9-6" target="R4wL9bozNFMSgIH_ZImQ-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R6cSBWT4vYsl6B0eMvr9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R6cSBWT4vYsl6B0eMvr9-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1210" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="60" y="440" />
+              <mxPoint x="60" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="R6cSBWT4vYsl6B0eMvr9-6" target="R6cSBWT4vYsl6B0eMvr9-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1210" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-6" value="AEC Studio&lt;br&gt;Node Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="570" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1270" y="410" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-7" value="AEC Studio&lt;br&gt;Code &amp;amp; Config&lt;br&gt;Sync Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1270" y="800" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1270" y="1010" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-26" value="Client Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-790" y="-130" width="100" height="30" as="geometry" />
@@ -403,6 +408,18 @@
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-989" y="-100" width="499" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-44" value="CDN Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="750" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-45" value="App Template Builder Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="810" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-46" value="Studio UI Template Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="570" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-47" value="App Config Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="690" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

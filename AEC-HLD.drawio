@@ -410,16 +410,16 @@
           <mxGeometry x="-1210" y="1310" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-44" value="CDN Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="750" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1040" y="890" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-45" value="App Template Builder Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="810" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1040" y="770" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-46" value="Studio Portal Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="570" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1040" y="530" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-47" value="App Config Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="690" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1040" y="650" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

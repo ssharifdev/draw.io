@@ -366,6 +366,9 @@
             <mxPoint x="-1210" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R6cSBWT4vYsl6B0eMvr9-6" target="R6cSBWT4vYsl6B0eMvr9-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-6" value="AEC Studio&lt;br&gt;Node Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="410" width="120" height="70" as="geometry" />
         </mxCell>
@@ -420,6 +423,9 @@
         </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-47" value="App Config Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="650" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R6cSBWT4vYsl6B0eMvr9-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="500" width="200" height="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

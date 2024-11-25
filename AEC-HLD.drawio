@@ -472,6 +472,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-95" value="Save &amp;amp; Publish" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i2BVjJreL_Xb-3278pKQ-90">
+          <mxGeometry x="0.4022" y="5" relative="1" as="geometry">
+            <mxPoint x="109" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i2BVjJreL_Xb-3278pKQ-41" value="AEC Studio&lt;br&gt;FE Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-600" y="325" width="120" height="70" as="geometry" />
         </mxCell>
@@ -549,7 +554,7 @@
         </mxCell>
         <mxCell id="i2BVjJreL_Xb-3278pKQ-83" value="Fetch&lt;br&gt;Theming Assets&lt;br&gt;Builder Metadata Assets" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i2BVjJreL_Xb-3278pKQ-81">
           <mxGeometry x="-0.6331" relative="1" as="geometry">
-            <mxPoint y="-83" as="offset" />
+            <mxPoint x="70" y="-83" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="i2BVjJreL_Xb-3278pKQ-79" value="AEC Checkout&lt;br&gt;FE Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">

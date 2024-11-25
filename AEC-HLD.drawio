@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="UZ2FkjzimjhiqPQjV4-7">
-    <mxGraphModel dx="3831" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4029" dy="2536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,7 +341,7 @@
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-26" value="Client Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-790" y="-130" width="100" height="30" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="AEC Checkout Ecosystem" c4Type="SystemScopeBoundary" c4Application="FE" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="R6cSBWT4vYsl6B0eMvr9-32">
+        <object placeholders="1" c4Name="AEC Checkout Ecosystem" c4Type="SystemScopeBoundary" c4Application="FE + BE" label="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left&quot;&gt;[%c4Application%]&lt;/div&gt;" id="R6cSBWT4vYsl6B0eMvr9-32">
           <mxCell style="rounded=1;fontSize=11;whiteSpace=wrap;html=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="-1440" y="1550" width="1440" height="470" as="geometry" />
           </mxCell>
@@ -412,6 +412,14 @@
         </mxCell>
         <mxCell id="i2BVjJreL_Xb-3278pKQ-32" value="AEC Studio&lt;br&gt;Portal Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-960" y="325" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i2BVjJreL_Xb-3278pKQ-33" target="i2BVjJreL_Xb-3278pKQ-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="1200" />
+              <mxPoint x="-1310" y="1200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="i2BVjJreL_Xb-3278pKQ-33" value="AEC File Storage Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-240" y="885" width="120" height="70" as="geometry" />
@@ -497,8 +505,39 @@
         <mxCell id="i2BVjJreL_Xb-3278pKQ-76" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-280" y="1770" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="i2BVjJreL_Xb-3278pKQ-77" value="AEC Checkout&lt;br&gt;FE Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-77" value="AEC Checkout&lt;br&gt;BE Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-240" y="1800" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-78" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1770" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2BVjJreL_Xb-3278pKQ-79" target="i2BVjJreL_Xb-3278pKQ-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="1720" />
+              <mxPoint x="-180" y="1720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-82" value="Program + Version Resolver" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i2BVjJreL_Xb-3278pKQ-80">
+          <mxGeometry x="0.2601" y="-3" relative="1" as="geometry">
+            <mxPoint x="-40" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2BVjJreL_Xb-3278pKQ-79" target="i2BVjJreL_Xb-3278pKQ-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="1345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-83" value="Fetch&lt;br&gt;Theming Assets&lt;br&gt;Builder Metadata Assets" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i2BVjJreL_Xb-3278pKQ-81">
+          <mxGeometry x="-0.6331" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-79" value="AEC Checkout&lt;br&gt;FE Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1800" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

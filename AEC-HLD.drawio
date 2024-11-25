@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Page-1" id="UZ2FkjzimjhiqPQjV4-7">
-    <mxGraphModel dx="3715" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3395" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="2320" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="2320" width="240" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="R6cSBWT4vYsl6B0eMvr9-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-989" y="-100" width="499" height="130" as="geometry" />
         </mxCell>
@@ -432,14 +438,20 @@
             <mxGeometry x="-1470" y="2270" width="1450" height="930" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="i2BVjJreL_Xb-3278pKQ-2" value="AEC Studio&lt;br&gt;Code &amp;amp; Config&lt;br&gt;Sync Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="2370" width="120" height="70" as="geometry" />
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2BVjJreL_Xb-3278pKQ-2" target="i2BVjJreL_Xb-3278pKQ-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i2BVjJreL_Xb-3278pKQ-3" value="AEC Studio&lt;br&gt;Template/Page Preview (MF)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="2370" width="120" height="70" as="geometry" />
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2BVjJreL_Xb-3278pKQ-2" target="i2BVjJreL_Xb-3278pKQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-2" value="AEC Studio&lt;br&gt;Code &amp;amp; Config&lt;br&gt;Sync Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="2360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i2BVjJreL_Xb-3278pKQ-3" value="AEC Studio&lt;br&gt;Template/Page Customisation &amp;amp; Preview (MF)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="2490" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="i2BVjJreL_Xb-3278pKQ-4" value="AEC Studio&lt;br&gt;Admin Services" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1370" y="2550" width="120" height="70" as="geometry" />
+          <mxGeometry x="-980" y="2360" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

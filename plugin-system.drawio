@@ -1,20 +1,28 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="R5AMOYauMRMNCE6WfEkY">
-    <mxGraphModel dx="1306" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SIFqW6mXaj_nnVLzhoT2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-1" target="SIFqW6mXaj_nnVLzhoT2-2">
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="580" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-100" width="580" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-21" target="SIFqW6mXaj_nnVLzhoT2-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-1" value="Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="-80" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SIFqW6mXaj_nnVLzhoT2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-2" target="SIFqW6mXaj_nnVLzhoT2-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="SIFqW6mXaj_nnVLzhoT2-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="180" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-2" value="Plugin System" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="167" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-4" target="SIFqW6mXaj_nnVLzhoT2-6">
           <mxGeometry relative="1" as="geometry" />
@@ -26,16 +34,59 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-4" value="Node module &amp;amp; Module Federation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="247" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-6" value="IFrame&lt;br&gt;Injector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="337" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-8" value="WebComponent&lt;br&gt;Injector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="337" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-10" value="Module Federation Injector" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="337" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-1" target="SIFqW6mXaj_nnVLzhoT2-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="100" as="sourcePoint" />
+            <mxPoint x="280" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-14" target="SIFqW6mXaj_nnVLzhoT2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-18" value="Tekion" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SIFqW6mXaj_nnVLzhoT2-17">
+          <mxGeometry x="-0.075" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-21" target="SIFqW6mXaj_nnVLzhoT2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-14" value="UI Decider" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-16" value="Builder Renderer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-14" target="SIFqW6mXaj_nnVLzhoT2-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-14" target="SIFqW6mXaj_nnVLzhoT2-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="510" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-24" value="Custom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SIFqW6mXaj_nnVLzhoT2-23">
+          <mxGeometry x="-0.0333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-21" value="Genric Step Handler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

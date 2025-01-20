@@ -197,6 +197,34 @@
         <mxCell id="SIFqW6mXaj_nnVLzhoT2-73" value="Browser/Device Resize Handling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-74" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1640" width="880" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-75" value="Application" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1610" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-76" target="SIFqW6mXaj_nnVLzhoT2-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-76" value="Secure Checkout" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="SIFqW6mXaj_nnVLzhoT2-77" target="SIFqW6mXaj_nnVLzhoT2-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="620" y="1480" />
+              <mxPoint x="920" y="1480" />
+              <mxPoint x="920" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SIFqW6mXaj_nnVLzhoT2-77" value="OEM Portal&lt;br&gt;with&lt;br&gt;Custom Resize" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

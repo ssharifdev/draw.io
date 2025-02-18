@@ -74,8 +74,29 @@
         <mxCell id="sYEmnw5B4f53DDjbEc8y-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="40" y="720" as="sourcePoint" />
-            <mxPoint x="760" y="720" as="targetPoint" />
+            <mxPoint x="800" y="720" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="800" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-23" value="Checkout Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-24" value="CHECKOUT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="800" width="200" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-26" value="STUDIO" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="770" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-27" value="Checkout Component Props and Functionality Config Dependency&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-28" value="Checkout Component Props and Functionality Config Dependency&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1020" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

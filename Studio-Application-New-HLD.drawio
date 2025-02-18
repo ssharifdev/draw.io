@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="200" height="520" as="geometry" />
+        </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-1" target="sYEmnw5B4f53DDjbEc8y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -13,7 +19,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-1" value="Builder Metadata Config Functionality" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-2" target="sYEmnw5B4f53DDjbEc8y-1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-2" value="Checkout Component Props and Functionality Dependency&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="180" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-5" target="sYEmnw5B4f53DDjbEc8y-6">
           <mxGeometry relative="1" as="geometry" />
@@ -34,11 +40,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-5" target="sYEmnw5B4f53DDjbEc8y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-16" value="Manually Agreed Contracts&lt;br&gt;&amp;amp;&lt;br&gt;Offline Shared" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="sYEmnw5B4f53DDjbEc8y-15">
+          <mxGeometry x="-0.0214" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-5" value="Checkout Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="80" width="160" height="80" as="geometry" />
+          <mxGeometry x="520" y="180" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-6" value="Checkout Web App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="280" width="160" height="80" as="geometry" />
+          <mxGeometry x="520" y="380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-9" target="sYEmnw5B4f53DDjbEc8y-6">
           <mxGeometry relative="1" as="geometry" />
@@ -49,7 +63,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-9" value="Builder Metadata Config&lt;br&gt;(BLOB)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="580" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-19" value="STUDIO" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-20" value="CHECKOUT" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

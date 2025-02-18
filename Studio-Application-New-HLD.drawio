@@ -87,7 +87,7 @@
           <mxGeometry x="60" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="800" width="200" height="520" as="geometry" />
+          <mxGeometry x="500" y="800" width="200" height="720" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-26" value="STUDIO" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="500" y="770" width="60" height="30" as="geometry" />
@@ -111,8 +111,30 @@
         <mxCell id="sYEmnw5B4f53DDjbEc8y-27" value="Code Dependecy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="820" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-28" target="sYEmnw5B4f53DDjbEc8y-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-35" value="USER ACTION&lt;br&gt;(Dynamic Generation)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYEmnw5B4f53DDjbEc8y-34">
+          <mxGeometry x="-0.0625" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-28" value="Component Props and Functionality Config Dependency&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="1020" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-33" target="sYEmnw5B4f53DDjbEc8y-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-38" value="Generate &amp;amp; Store" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYEmnw5B4f53DDjbEc8y-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-33" value="Page Level Template&lt;br&gt;(Modification &amp;amp; Preview)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-36" value="Page Level Template&lt;br&gt;(BLOB)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1420" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

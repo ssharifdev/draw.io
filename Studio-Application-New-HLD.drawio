@@ -4,7 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sYEmnw5B4f53DDjbEc8y-1" value="Builder Metadata Config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-1" target="sYEmnw5B4f53DDjbEc8y-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-1" value="Builder Metadata Config Functionality" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-2" target="sYEmnw5B4f53DDjbEc8y-1">
@@ -17,6 +20,18 @@
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-2" value="Checkout Component Props and Functionality Dependency&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-5" target="sYEmnw5B4f53DDjbEc8y-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-5" value="Checkout Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-6" value="Checkout Web App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-9" value="Builder Metadata Config&lt;br&gt;(BLOB)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -7,6 +7,11 @@
         <mxCell id="sYEmnw5B4f53DDjbEc8y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-1" target="sYEmnw5B4f53DDjbEc8y-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-12" value="Generate &amp;amp; Store" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYEmnw5B4f53DDjbEc8y-10">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-1" value="Builder Metadata Config Functionality" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="160" height="80" as="geometry" />
         </mxCell>
@@ -24,6 +29,11 @@
         <mxCell id="sYEmnw5B4f53DDjbEc8y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sYEmnw5B4f53DDjbEc8y-5" target="sYEmnw5B4f53DDjbEc8y-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sYEmnw5B4f53DDjbEc8y-11" value="DEPLOYMENT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sYEmnw5B4f53DDjbEc8y-7">
+          <mxGeometry x="-0.0833" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-5" value="Checkout Code" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="160" height="80" as="geometry" />
         </mxCell>
@@ -31,7 +41,7 @@
           <mxGeometry x="520" y="280" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sYEmnw5B4f53DDjbEc8y-9" value="Builder Metadata Config&lt;br&gt;(BLOB)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="480" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

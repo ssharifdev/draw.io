@@ -232,7 +232,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcF21t9KvUX2QAD83Z5n-42" target="vcF21t9KvUX2QAD83Z5n-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-420" y="-440" />
+              <mxPoint x="-420" y="-490" />
+              <mxPoint x="-720" y="-490" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-42" value="Builder Interface" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-460" width="120" height="40" as="geometry" />

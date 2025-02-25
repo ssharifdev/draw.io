@@ -317,11 +317,26 @@
         <mxCell id="vcF21t9KvUX2QAD83Z5n-111" value="Cloud Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-965" y="1020" width="480" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=0;endArrow=none;" edge="1" parent="1" source="vcF21t9KvUX2QAD83Z5n-112" target="vcF21t9KvUX2QAD83Z5n-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-400" y="1100" />
+              <mxPoint x="-400" y="960" />
+              <mxPoint x="350" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-112" value="Blob Storage" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-795" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.469;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vcF21t9KvUX2QAD83Z5n-112" target="vcF21t9KvUX2QAD83Z5n-77">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-116" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1020" width="1380" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-117" value="Studio Web Application" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="1020" width="1380" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

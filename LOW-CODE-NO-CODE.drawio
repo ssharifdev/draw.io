@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="WpiRCljqd_P_I47EIugt">
-    <mxGraphModel dx="5049" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5920" dy="2673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,6 +173,42 @@
           <mxGeometry x="0.0927" y="-1" relative="1" as="geometry">
             <mxPoint x="-98" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1040" y="-520" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-53">
+          <mxGeometry width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-55" value="Preview Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-53">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1500" y="-1020" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-56">
+          <mxGeometry width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-58" value="State Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-56">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-980" y="-1020" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-59">
+          <mxGeometry width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-61" value="Service Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-59">
+          <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-460" y="-1020" width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-62">
+          <mxGeometry width="480" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-64" value="Workflow Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-62">
+          <mxGeometry width="480" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -168,7 +168,7 @@
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-51" value="&amp;nbsp;&lt;br&gt;&amp;nbsp; COMPONENTS&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#CCCCCC;" vertex="1" connectable="0" parent="vcF21t9KvUX2QAD83Z5n-50">
           <mxGeometry x="0.0927" y="-1" relative="1" as="geometry">
-            <mxPoint x="-117" y="-6" as="offset" />
+            <mxPoint x="-139" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-56" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -180,6 +180,9 @@
         <mxCell id="vcF21t9KvUX2QAD83Z5n-58" value="State Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-56">
           <mxGeometry width="480" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-71" value="State Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-56">
+          <mxGeometry x="180" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-59" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-60" y="-80" width="480" height="360" as="geometry" />
         </mxCell>
@@ -189,6 +192,9 @@
         <mxCell id="vcF21t9KvUX2QAD83Z5n-61" value="Service Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-59">
           <mxGeometry width="480" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-72" value="Service Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-59">
+          <mxGeometry x="180" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-62" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="520" y="-80" width="480" height="360" as="geometry" />
         </mxCell>
@@ -197,6 +203,9 @@
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-64" value="Workflow Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-62">
           <mxGeometry width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-73" value="Workflow Engine" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="vcF21t9KvUX2QAD83Z5n-62">
+          <mxGeometry x="180" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-70" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1000" y="-520" width="480" height="360" as="geometry" />

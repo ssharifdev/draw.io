@@ -766,7 +766,7 @@
             <mxPoint x="45" y="512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="juS5NUNLmUltaaD-D1dk-113" value="15: Update Tekion Deal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="juS5NUNLmUltaaD-D1dk-112">
+        <mxCell id="juS5NUNLmUltaaD-D1dk-113" value="16: Update Tekion Deal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="juS5NUNLmUltaaD-D1dk-112">
           <mxGeometry x="0.049" relative="1" as="geometry">
             <mxPoint x="-3" y="-11" as="offset" />
           </mxGeometry>
@@ -900,7 +900,7 @@
             <mxPoint x="-1115" y="1070.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="juS5NUNLmUltaaD-D1dk-136" value="14: On user selection Update Acce" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="juS5NUNLmUltaaD-D1dk-135">
+        <mxCell id="juS5NUNLmUltaaD-D1dk-136" value="14: On user selection Update Accessories data and Deal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="juS5NUNLmUltaaD-D1dk-135">
           <mxGeometry x="0.049" relative="1" as="geometry">
             <mxPoint x="-4" y="-11" as="offset" />
           </mxGeometry>
@@ -914,7 +914,7 @@
             <mxPoint x="-1118" y="1102" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="juS5NUNLmUltaaD-D1dk-138" value="14: Update Tekion Deal with select/deselect Accessories option" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="juS5NUNLmUltaaD-D1dk-137">
+        <mxCell id="juS5NUNLmUltaaD-D1dk-138" value="15: Update Tekion Deal with select/deselect Accessories option" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="juS5NUNLmUltaaD-D1dk-137">
           <mxGeometry x="0.049" relative="1" as="geometry">
             <mxPoint x="-3" y="-11" as="offset" />
           </mxGeometry>

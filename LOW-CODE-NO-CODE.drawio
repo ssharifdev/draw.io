@@ -168,7 +168,7 @@
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-51" value="&amp;nbsp;&lt;br&gt;&amp;nbsp; Components&amp;nbsp;&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#CCCCCC;" vertex="1" connectable="0" parent="vcF21t9KvUX2QAD83Z5n-50">
           <mxGeometry x="0.0927" y="-1" relative="1" as="geometry">
-            <mxPoint x="-98" y="-1" as="offset" />
+            <mxPoint x="-117" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-56" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -219,7 +219,7 @@
         <mxCell id="vcF21t9KvUX2QAD83Z5n-66" value="Test Environment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-940" y="-280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vcF21t9KvUX2QAD83Z5n-67" value="Metadata Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-67" value="Mock Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-700" y="-280" width="120" height="40" as="geometry" />
         </mxCell>
       </root>

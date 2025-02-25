@@ -212,16 +212,16 @@
           <mxGeometry x="-57.5" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="-50" width="480" height="1180" as="geometry" />
+          <mxGeometry x="-960" y="-50" width="480" height="840" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-76" value="Publish System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-960" y="-50" width="480" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-895" y="630" width="350" height="450" as="geometry" />
+          <mxGeometry x="-900" y="280" width="350" height="450" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-78" value="Plugin System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-895" y="630" width="350" height="40" as="geometry" />
+          <mxGeometry x="-900" y="280" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-80" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-152.5" y="220" width="310" height="210" as="geometry" />
@@ -250,30 +250,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-87" value="Configuration Generator" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-780" width="120" height="40" as="geometry" />
+          <mxGeometry x="-785" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vcF21t9KvUX2QAD83Z5n-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcF21t9KvUX2QAD83Z5n-88" target="vcF21t9KvUX2QAD83Z5n-78">
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vcF21t9KvUX2QAD83Z5n-88" target="vcF21t9KvUX2QAD83Z5n-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vcF21t9KvUX2QAD83Z5n-100" value="GENERATE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vcF21t9KvUX2QAD83Z5n-99">
-          <mxGeometry x="0.6158" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-88" value="Publish Manager" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="130" width="120" height="40" as="geometry" />
+          <mxGeometry x="-785" y="130" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-89" value="Module Federation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="700" width="120" height="40" as="geometry" />
+          <mxGeometry x="-785" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-92" value="IFrame" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="-785" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-93" value="Web Component" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="880" width="120" height="40" as="geometry" />
+          <mxGeometry x="-785" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vcF21t9KvUX2QAD83Z5n-94" value="Standalone Page" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-780" y="970" width="120" height="40" as="geometry" />
+          <mxGeometry x="-785" y="620" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

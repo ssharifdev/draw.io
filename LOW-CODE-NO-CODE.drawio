@@ -231,6 +231,12 @@
         <mxCell id="vcF21t9KvUX2QAD83Z5n-76" value="Publish System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-960" y="-50" width="350" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1620" width="350" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="vcF21t9KvUX2QAD83Z5n-78" value="Plugin System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1620" width="350" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

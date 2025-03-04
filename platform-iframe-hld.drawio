@@ -97,6 +97,24 @@
         <mxCell id="L-U1fICnltMbJxQBlIye-35" value="6. Request with&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;ContextID&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-400" y="760" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-36" value="7. Authorized request with ContextID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-37" value="8. Verify Authorization" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-38" value="9. Authorize API calls" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-39" value="10. Data Exchange" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-40" value="11. Client Data Exchange" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-41" value="12. &lt;b&gt;Status Events&lt;br&gt;(LOADED, UPDATED etc)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

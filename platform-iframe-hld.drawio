@@ -115,6 +115,9 @@
         <mxCell id="L-U1fICnltMbJxQBlIye-41" value="12. &lt;b&gt;Status Events&lt;br&gt;(LOADED, UPDATED etc)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-400" y="1230" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-42" value="&lt;b&gt;NO DATA EXCHANGE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

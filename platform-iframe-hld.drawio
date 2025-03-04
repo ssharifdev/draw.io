@@ -13,13 +13,13 @@
         <mxCell id="L-U1fICnltMbJxQBlIye-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="1320" y="160" width="480" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="L-U1fICnltMbJxQBlIye-5" value="&lt;h1&gt;&lt;b&gt;PLATFORM SYSTEMS&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="L-U1fICnltMbJxQBlIye-5" value="&lt;h1&gt;&lt;b&gt;Platform Systems&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="65" y="170" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L-U1fICnltMbJxQBlIye-6" value="&lt;h1&gt;&lt;b&gt;PROGRAM&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="L-U1fICnltMbJxQBlIye-6" value="&lt;h1&gt;&lt;b&gt;Program Systems&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="745" y="170" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="L-U1fICnltMbJxQBlIye-7" value="&lt;h1&gt;&lt;b&gt;GM&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="L-U1fICnltMbJxQBlIye-7" value="&lt;h1&gt;&lt;b&gt;GM Systems&lt;/b&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="1425" y="170" width="270" height="30" as="geometry" />
         </mxCell>
       </root>

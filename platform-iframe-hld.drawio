@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="CDsjLTWLwzHJAGwnAPml">
-    <mxGraphModel dx="3216" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2210" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="L-U1fICnltMbJxQBlIye-11" value="&lt;font style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 170%;&quot;&gt;Platform FE Services&lt;/font&gt;&lt;br&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px; line-height: 170%;&quot;&gt;(Dealer Portal, OEM Portal &amp;amp; Secure Checkout)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BBEAB8;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="440" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="L-U1fICnltMbJxQBlIye-12" value="&lt;font style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 160%;&quot;&gt;Platform BE Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BBEAB8;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="L-U1fICnltMbJxQBlIye-12" value="&lt;font style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 160%;&quot;&gt;Platform BE Services&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BBEAB8;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L-U1fICnltMbJxQBlIye-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE7D9;strokeColor=#82b366;fillStyle=auto;" vertex="1" parent="1">
@@ -55,7 +55,7 @@
         <mxCell id="L-U1fICnltMbJxQBlIye-20" value="&lt;font style=&quot;line-height: 170%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 170%;&quot;&gt;Custom FE Services (IFrame Embedable)&lt;/font&gt;&lt;br&gt;&lt;span&gt;&lt;font style=&quot;font-size: 16px; line-height: 170%;&quot;&gt;(Dealer Portal, OEM Portal &amp;amp; Secure Checkout)&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="880" y="320" width="440" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="L-U1fICnltMbJxQBlIye-21" value="&lt;font style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 160%;&quot;&gt;Custom BE Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="L-U1fICnltMbJxQBlIye-21" value="&lt;font style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 160%;&quot;&gt;Custom BE Services&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="881" y="520" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L-U1fICnltMbJxQBlIye-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e4eefb, #1d293b);strokeColor=#6c8ebf;fillStyle=auto;" vertex="1" parent="1">
@@ -78,6 +78,24 @@
         </mxCell>
         <mxCell id="L-U1fICnltMbJxQBlIye-28" value="&lt;font style=&quot;line-height: 160%;&quot;&gt;&lt;font style=&quot;font-size: 18px; line-height: 160%;&quot;&gt;Platform IDP Service (FE + BE)&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BBEAB8;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="1110" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-29" value="1. Embed IFrame" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-30" value="2.&lt;b&gt; LOADED&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-31" value="3. IFrame Access Validation (Domain)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-33" value="4. Generate Context ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-34" value="5.&lt;b&gt;INIT_DATA with&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;ContextID&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-35" value="6. Request with&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;ContextID&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -471,7 +471,7 @@
         <mxCell id="L-U1fICnltMbJxQBlIye-153" value="3. IFrame Access Validation (Domain)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3780" y="460" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="L-U1fICnltMbJxQBlIye-154" value="4. Generate Context ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="L-U1fICnltMbJxQBlIye-154" value="4. Get Context ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="3920" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L-U1fICnltMbJxQBlIye-155" value="6. Request with&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;ContextID&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
@@ -568,6 +568,24 @@
         </mxCell>
         <mxCell id="L-U1fICnltMbJxQBlIye-178" value="11. Client Data Exchange" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="5230" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.143;entryY=0.002;entryDx=0;entryDy=0;exitX=0.143;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3911.92" y="600.0000000000001" as="sourcePoint" />
+            <mxPoint x="3911.92" y="800.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-180" value="4.1. Generate Context ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3850" y="659.84" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.151;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.151;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3913.4400000000005" y="961.2800000000002" as="sourcePoint" />
+            <mxPoint x="3913.4400000000005" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L-U1fICnltMbJxQBlIye-182" value="4.2. Generate ContextID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3856" y="900.96" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

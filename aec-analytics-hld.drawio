@@ -31,27 +31,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Q0jQxg_W3pybew-3Bnd-8" value="Component Event Trigger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Q0jQxg_W3pybew-3Bnd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Q0jQxg_W3pybew-3Bnd-9" target="0Q0jQxg_W3pybew-3Bnd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0Q0jQxg_W3pybew-3Bnd-9" value="Component Event Data Layer Collection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0Q0jQxg_W3pybew-3Bnd-10" value="Analytics Provider Event Fire" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0Q0jQxg_W3pybew-3Bnd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.558;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0Q0jQxg_W3pybew-3Bnd-1" target="0Q0jQxg_W3pybew-3Bnd-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0Q0jQxg_W3pybew-3Bnd-16" value="User Actions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Q0jQxg_W3pybew-3Bnd-15">
-          <mxGeometry x="0.0745" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="0Q0jQxg_W3pybew-3Bnd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Q0jQxg_W3pybew-3Bnd-1" target="0Q0jQxg_W3pybew-3Bnd-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="311" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0Q0jQxg_W3pybew-3Bnd-17" value="CODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q0jQxg_W3pybew-3Bnd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Q0jQxg_W3pybew-3Bnd-18" target="0Q0jQxg_W3pybew-3Bnd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q0jQxg_W3pybew-3Bnd-20" value="User Action" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0Q0jQxg_W3pybew-3Bnd-19">
+          <mxGeometry x="0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0Q0jQxg_W3pybew-3Bnd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0Q0jQxg_W3pybew-3Bnd-18" target="0Q0jQxg_W3pybew-3Bnd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q0jQxg_W3pybew-3Bnd-18" value="Component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0Q0jQxg_W3pybew-3Bnd-21" value="Static HTML Element Tagging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

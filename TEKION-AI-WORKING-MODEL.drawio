@@ -4,6 +4,36 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="520" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="190" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-1" value="AUGMENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-2" value="CURSOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-3" value="Persona Rules and Definitions&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-4" value="Application AI Rules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-6" value="AI Agents" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-7" value="Global/Central SDLC Rules &amp;amp; Guides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-8" value="Central AI Rules &amp;amp; Guides" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="255" y="120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2Ym-heVQnYiGWkkGFMiF-9" value="Global/Central Development Rules &amp;amp; Guides" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
